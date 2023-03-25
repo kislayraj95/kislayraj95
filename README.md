@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kislayraj95](https://github.com/kislayraj95)
 
-- 📫 How to reach me **kislay@gmail.com**
+- 📫 How to reach me **kislayraj995@gmail.com**
 
 - ⚡ Fun fact **I love coding**
 
